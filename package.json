@@ -1,0 +1,22 @@
+{
+  "name": "proto_decoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/struckm/proto_decoder.git"
+  },
+  "author": "Mark Struck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/struckm/proto_decoder/issues"
+  },
+  "homepage": "https://github.com/struckm/proto_decoder#readme",
+  "devDependencies": {
+    "protobufjs": "^4.1.3"
+  }
+}
